@@ -36,6 +36,6 @@
 3. [vcflib](https://github.com/vcflib/vcflib) - Fills in some gaps in BCFtools and VCFtools
 4. [vcfanno](https://github.com/brentp/vcfanno) - fast annotation of VCF files
 5. [SnpEff & SnpSift](http://snpeff.sourceforge.net/) - annotate VCFs with varient effects
-
+6. [SNP filtering](http://ddocent.com/filtering/) - a guide to filtering high quality SNPs
 
 
