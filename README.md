@@ -4,6 +4,8 @@
 
 ### R
 
+[skimr](https://github.com/ropensci/skimr) - take a quick comprehensive look at your data before starting analysis!
+
 #### [tidyverse](https://www.tidyverse.org/)
 1. [readr](http://r4ds.had.co.nz/data-import.html) - reading in data
 2. [dplyr](http://r4ds.had.co.nz/transform.html) - manipulate data
@@ -18,6 +20,7 @@
 5. [purrr](http://r4ds.had.co.nz/iteration.html) - iterate across data
 6. [modelr](http://r4ds.had.co.nz/model-basics.html) - building models to describe data
 7. [tidyeval](https://edwinth.github.io/blog/dplyr-recipes/) - moving from strings to variables for functionalizing within tidyverse framework
+8. [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps) - to visualize each generated dataframe in a dplyr pipe. for debugging
 
 #### People to follow on twitter
 1. @dataandme - data scientist and tidyverse developer
