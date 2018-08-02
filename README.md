@@ -14,7 +14,8 @@
   * [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot/blob/master/README.md) - A nice package to visualize statistics in ggplot frameworke
   * [ggtree](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/treeVisualization.html) - How to construct dendrograms in ggplot2 framework
   * [ggrepel](https://cran.r-project.org/web/packages/ggrepel/vignettes/ggrepel.html) - add labels to data points with minimal overlap of text
-  * [maps] (https://microbeecology.wordpress.com/2018/07/25/making-maps-with-ggplot2-and-sf/) - A short tutorial on how to make maps in ggplot2
+  * [maps](https://microbeecology.wordpress.com/2018/07/25/making-maps-with-ggplot2-and-sf/) - A short tutorial on how to make maps in ggplot2
+  * [gghighlight](https://www.littlemissdata.com/blog/highlight) - A package to make highlighting data easier.
   * [visualization overview 1](https://www.data-to-viz.com/index.html#portfolioanchor) - A great resource for nice visualizations
   * [visualization overview 2](https://serialmentor.com/dataviz/) - Another great resource for nice visualizations
 5. [purrr](http://r4ds.had.co.nz/iteration.html) - iterate across data
