@@ -37,9 +37,18 @@
 
 1. [BCFtools](https://samtools.github.io/bcftools/bcftools.html) - subset, filter, convert, and other functionality for VCF files
 2. [VCFtools](https://vcftools.github.io/man_latest.html) - less powerful than BCFtools, but can also calculate simple population genetic statistics - pi, tajima's, etc
-3. [vcflib](https://github.com/vcflib/vcflib) - Fills in some gaps in BCFtools and VCFtools
-4. [vcfanno](https://github.com/brentp/vcfanno) - fast annotation of VCF files
-5. [SnpEff & SnpSift](http://snpeff.sourceforge.net/) - annotate VCFs with varient effects
-6. [SNP filtering](http://ddocent.com/filtering/) - a guide to filtering high quality SNPs
+3. [PLINK](https://www.cog-genomics.org/plink2) - Fast processing of VCF files
+4. [vcflib](https://github.com/vcflib/vcflib) - Fills in some gaps in BCFtools and VCFtools
+5. [vcfanno](https://github.com/brentp/vcfanno) - fast annotation of VCF files
+6. [SnpEff & SnpSift](http://snpeff.sourceforge.net/) - annotate VCFs with varient effects
+7. [SNP filtering](http://ddocent.com/filtering/) - a guide to filtering high quality SNPs
 
+### Genomic data visualization
+
+1. [IGV](https://software.broadinstitute.org/software/igv/) - Visualize BAMs
+2. [MSscan](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) - A tool to visualize genome synteny. Also check out the [jcvi](https://github.com/tanghaibao/jcvi) parent directory
+3. [samplot](https://github.com/ryanlayer/samplot) - Visualize structural variants
+
+### Learning
+1. [Math Tutorials](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?app=desktop) - Aaron Quinlan approved videos!
 
