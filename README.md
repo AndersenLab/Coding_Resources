@@ -61,6 +61,10 @@
 2. [Data Viz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
 3. [PEQG2018 Crow Award Presentations](http://genestogenomes.org/videos-from-peqg18-keynote-and-crow-award-sessions/?category=science-and-publishing)
 
+### Phylogeny
+
+1. [Tree Snatcher](http://www.cibiv.at/software/treesnatcher/) - convert static images of trees to distance matrix for plotting
+
 ### Learning
 1. [Math Tutorials](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?app=desktop) - Aaron Quinlan approved videos!
 
