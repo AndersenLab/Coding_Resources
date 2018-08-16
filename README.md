@@ -49,6 +49,18 @@
 2. [MSscan](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) - A tool to visualize genome synteny. Also check out the [jcvi](https://github.com/tanghaibao/jcvi) parent directory
 3. [samplot](https://github.com/ryanlayer/samplot) - Visualize structural variants
 
+### Calling Variants
+
+1. [Currated CNV and SV resources](https://github.com/geocarvalho/sv-cnv-studies) - we are currently running Manta, Smoove (Lumpy), Delly, and TIDDIT
+2. [Strelka2](https://github.com/Illumina/strelka) - Small variants
+3. [GATK4](https://github.com/broadinstitute/gatk) - Small variants
+
+### Presentations
+
+1. [Better Presentations Cheatsheet](https://policyviz.com/2018/08/14/better-presentations-cheatsheet/)
+2. [Data Viz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
+3. [PEQG2018 Crow Award Presentations](http://genestogenomes.org/videos-from-peqg18-keynote-and-crow-award-sessions/?category=science-and-publishing)
+
 ### Learning
 1. [Math Tutorials](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?app=desktop) - Aaron Quinlan approved videos!
 
