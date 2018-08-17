@@ -68,8 +68,14 @@
 ### Selection
 
 1. [Sweep Overview](http://www.cs.cmu.edu/~sssykim/teaching/f11/slides/Lecture10.pdf)
-2. [Haplotype Selection Stats](https://github.com/ngarud/SelectionHapStats) - from this [paper](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005004)
-3. 
+2. [Sweep Overview](https://math.la.asu.edu/~jtaylor/teaching/Spring2017/BIO545/lectures/scans.pdf)
+3. [Haplotype Selection Stats](https://github.com/ngarud/SelectionHapStats) - from this [paper](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005004)
+4. [Classic Popgen stats](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.210.4017&rep=rep1&type=pdf) 
+5. [Machine Learning Popgen](https://www.sciencedirect.com/science/article/pii/S0168952517302251?via%3Dihub)
+6. [EHH](https://www.nature.com/articles/nature01140)
+7. [iHS](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040072#pbio-0040072-b005)
+8. [H1/H2](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005004)
+9. 
 
 ### Learning
 1. [Math Tutorials](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?app=desktop) - Aaron Quinlan approved videos!
