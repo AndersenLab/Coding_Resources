@@ -65,6 +65,13 @@
 
 1. [Tree Snatcher](http://www.cibiv.at/software/treesnatcher/) - convert static images of trees to distance matrix for plotting
 
+### Selection
+
+1. [Sweep Overview](http://www.cs.cmu.edu/~sssykim/teaching/f11/slides/Lecture10.pdf)
+2. [Haplotype Selection Stats](https://github.com/ngarud/SelectionHapStats) - from this [paper](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005004)
+3. 
+
 ### Learning
 1. [Math Tutorials](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?app=desktop) - Aaron Quinlan approved videos!
+
 
