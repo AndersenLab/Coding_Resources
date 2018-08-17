@@ -72,8 +72,8 @@
 3. [Haplotype Selection Stats](https://github.com/ngarud/SelectionHapStats) - from this [paper](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005004)
 4. [Classic Popgen stats](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.210.4017&rep=rep1&type=pdf) 
 5. [Machine Learning Popgen](https://www.sciencedirect.com/science/article/pii/S0168952517302251?via%3Dihub)
-6. [EHH](https://www.nature.com/articles/nature01140)
-7. [iHS](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040072#pbio-0040072-b005)
+6. [EHH](https://www.nature.com/articles/nature01140) - The EHH measures the decay of identity, as a function of distance, of haplotypes that carry a specified “core” allele at one end. For each allele, haplotype homozygosity starts at 1, and decays to 0 with increasing distance from the core site (Figure 1B). As shown in the figure, when an allele rises rapidly in frequency due to strong selection, it tends to have high levels of haplotype homozygosity extending much further than expected under a neutral model. Hence, in plots of EHH versus distance, the area under the EHH curve will usually be much greater for a selected allele than for a neutral allele. 
+7. [iHS](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040072#pbio-0040072-b005) -  In order to capture this effect, we compute the integral of the observed decay of EHH away from a specified core allele until EHH reaches 0.05. This integrated EHH (iHH) (summed over both directions away from the core SNP) will be denoted iHHA or iHHD, depending on whether it is computed with respect to the ancestral or derived core allele. Finally, we obtain our test statistic iHS using iHHa/iHHd. 
 8. [H1/H2](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005004)
 9. 
 
