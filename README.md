@@ -77,7 +77,13 @@
 8. [H1/H2](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005004)
 9. 
 
+### Nextflow
+
+1. [Nextflow Documentation](https://www.nextflow.io/docs/latest/index.html)
+2. [Nextflow Patterns](https://github.com/nextflow-io/patterns)
+
 ### Learning
 1. [Math Tutorials](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?app=desktop) - Aaron Quinlan approved videos!
+
 
 
