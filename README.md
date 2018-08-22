@@ -57,7 +57,7 @@
 
 ### Presentations
 
-1. [Better Presentations Cheatsheet](https://policyviz.com/2018/08/14/better-presentations-cheatsheet/)
+1. [Better Presentations Cheatsheet](https://policyviz.com/2018/08/14/better-presentations-cheatsheet/) - This is a cheat sheet describing the fundamentals discussed in the Better Presentations book by Jonathan Schwabish. Also, [here](https://policyviz.com/better-presentations/) is a website with a lot of the information discussed with book.
 2. [Data Viz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
 3. [PEQG2018 Crow Award Presentations](http://genestogenomes.org/videos-from-peqg18-keynote-and-crow-award-sessions/?category=science-and-publishing)
 
