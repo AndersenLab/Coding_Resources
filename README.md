@@ -77,6 +77,9 @@
 8. [H1/H2](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005004)
 9. 
 
+### Command Line
+1. [Useful tools](https://astrobiomike.github.io/bash/six_commands)
+
 ### Nextflow
 
 1. [Nextflow Documentation](https://www.nextflow.io/docs/latest/index.html)
