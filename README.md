@@ -87,6 +87,6 @@
 
 ### Learning
 1. [Math Tutorials](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists?app=desktop) - Aaron Quinlan approved videos!
-
+2. [Stats Overview](http://www.statsoft.com/Textbook/Elementary-Statistics-Concepts)
 
 
