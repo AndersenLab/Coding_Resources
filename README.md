@@ -58,6 +58,7 @@
 1. [Currated CNV and SV resources](https://github.com/geocarvalho/sv-cnv-studies) - we are currently running Manta, Smoove (Lumpy), Delly, and TIDDIT
 2. [Strelka2](https://github.com/Illumina/strelka) - Small variants
 3. [GATK4](https://github.com/broadinstitute/gatk) - Small variants
+4. [Variant Callers](https://github.com/deaconjs/ThousandVariantCallersRepo) - Currated list of variant callers
 
 ### Presentations
 
