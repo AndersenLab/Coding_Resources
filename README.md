@@ -4,6 +4,7 @@
 
 1. [Coding Club](https://ourcodingclub.github.io/tutorials/) - A LOT of useful tutorials on everything from R to Python to linear mixed models to Git and more!
 2. [Statistics](https://newonlinecourses.science.psu.edu/stat505/node/2/) - An online resource all about statistics.
+3. [Statistics](https://www.huber.embl.de/msmb/) - Another statistics resource with code available 
 
 ## Software 
 
