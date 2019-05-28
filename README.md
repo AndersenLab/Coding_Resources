@@ -28,6 +28,7 @@
 6. [modelr](http://r4ds.had.co.nz/model-basics.html) - building models to describe data
 7. [tidyeval](https://edwinth.github.io/blog/dplyr-recipes/) - moving from strings to variables for functionalizing within tidyverse framework
 8. [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps) - to visualize each generated dataframe in a dplyr pipe. for debugging
+9. [roperators](https://www.rdocumentation.org/packages/roperators/versions/1.1.0) - Provides string arithmetic, reassignment operators, logical operators that handle missing values, and extra logical operators such as floating point equality and all or nothing
 
 #### People to follow on twitter
 1. @dataandme - data scientist and tidyverse developer
@@ -86,6 +87,7 @@
 
 ### Command Line
 1. [Useful tools](https://astrobiomike.github.io/bash/six_commands)
+2. [csvtk](https://bioinf.shenwei.me/csvtk/usage/#csvtk) - A command line tool to handle csv/tsv forms, doing similar jobs as R-dplyr, but much faster.
 
 ### Nextflow
 
